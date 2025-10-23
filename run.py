@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Quantum Computing Demo Launcher
-Run this file to start the amazing quantum demo!
-"""
-
 import sys
 import os
 
@@ -11,7 +5,6 @@ def main():
     print("🌌 Welcome to the Quantum Computing Demo!")
     print("=" * 40)
     
-    # Add current directory to path
     sys.path.append(os.path.dirname(os.path.abspath(__file__)))
     
     try:
