@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Test file to check if all imports work correctly
-"""
-
 print("🔍 Testing Quantum Computing Imports...")
 
 try:
