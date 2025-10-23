@@ -8,10 +8,8 @@ class QuantumVisualizer:
     
     def plot_quantum_circuit(self, circuit, title="Quantum Circuit"):
         try:
-            # Try to use the circuit drawer
             return circuit.draw(output='mpl', style={'backgroundcolor': '#000000'})
         except:
-            # Fallback: just print the circuit
             print("Circuit visualization not available, printing text version:")
             print(circuit)
             return None
