@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Quantum Computing Demo Launcher
-Run this file to start the amazing quantum demo!
-"""
-
 import sys
 import os
 
