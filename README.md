@@ -4,15 +4,15 @@
 
 ![Quantum Demo](images/demo_screenshot.png)
 
-## 🚀 Features
+## Features
 
-- **🔮 Quantum True Random Number Generation** - Uses quantum superposition and entanglement
-- **🔐 BB84 Quantum Key Distribution** - Simulates theoretically unbreakable quantum cryptography
-- **🖼️ Quantum Image Encryption** - Encrypts images using quantum-generated keys
-- **📊 Interactive Visualizations** - Real-time quantum circuit diagrams and encryption results
-- **🌌 Quantum Fractal Generator** - Creates beautiful quantum-inspired artwork
+- **Quantum True Random Number Generation** - Uses quantum superposition and entanglement
+- **BB84 Quantum Key Distribution** - Simulates theoretically unbreakable quantum cryptography
+- **Quantum Image Encryption** - Encrypts images using quantum-generated keys
+- **Interactive Visualizations** - Real-time quantum circuit diagrams and encryption results
+- **Quantum Fractal Generator** - Creates beautiful quantum-inspired artwork
 
-## 🎯 MIT Interview Highlights
+## MIT Interview Highlights
 
 This project demonstrates:
 - **Advanced Quantum Computing Concepts**: Superposition, entanglement, quantum measurement
@@ -21,7 +21,7 @@ This project demonstrates:
 - **Software Engineering**: Modular architecture, error handling, performance optimization
 - **Scientific Visualization**: Data presentation and quantum state representation
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone repository
