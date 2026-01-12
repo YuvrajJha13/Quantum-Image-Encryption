@@ -1,4 +1,4 @@
-# 🌌 Quantum Image Encryption System
+# Quantum Image Encryption System
 
 > **MIT Interview Project** - A mind-blowing quantum computing demonstration featuring true quantum randomness, quantum key distribution, and quantum-enhanced image encryption.
 
